@@ -1,0 +1,10 @@
+baseurl: http://blog.lanzani.nl
+disablePathToLower: true
+languageCode: en-us
+title: Technical inconsistencies blog
+params:
+    Domain: "http://lanzani.nl"
+    Name: "lanzani.nl"
+    Blog: "http://blog.lanzani.nl//"
+    CV: "/cv"
+    Publications: "/publications/"

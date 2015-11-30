@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/lanzani
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://lanzani.nl
+  * I am lanzani (https://keybase.io/lanzani) on keybase.
+  * I have a public key with fingerprint D495 85D1 CBD3 BD0B BB17  C8B6 C2AA C094 1858 6A16
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "d49585d1cbd3bd0bbb17c8b6c2aac09418586a16",
+            "host": "keybase.io",
+            "key_id": "C2AAC09418586A16",
+            "uid": "04a8852b9bdea75a3d807da578e71b00",
+            "username": "lanzani"
+        },
+        "merkle_root": {
+            "ctime": 1417772163,
+            "hash": "4cf4289ccb9153febb5ce1ee56be4c821514954c32d0ea3a51ac797cb8d931449959b29d6bd56d8f2e32ce4fd054ee991ab257afb5f5bc90dbef9edeb12bbbca",
+            "seqno": 102388
+        },
+        "service": {
+            "hostname": "lanzani.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1417772251,
+    "expire_in": 157680000,
+    "prev": "2443bf29ca90cfa5fd0e876b4e6c1910b6922411b7633b1531e33ded74bd1880",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFVkntQVFUcx2GRUIqhQWchsJGuxKNwu+8HYkQ0gzlEOYtlOYDn3HsuXFnvXXaX
+ly6KRgUOjBCoTVPjYECKU44trI4RihaO8dZwRkmjFHlZM2EloKPdy+gU56/z+Py+
+5/v9nVMT5Odj8j3bcqY+bOMWs2/3BPTJ2OUe3o5BTSrBErZjok1BqsuYqWArwhKw
+PFQCgRNZFC1S1SRk2eKMfMTEY4XI4VQ0VadwC2ehsNJ4AzeKZUXNQQ67QzG0MIkW
+GJ6RCBFKFJRwCCHBiTxkRRIAERdogmd4FhCsLpmrOV0LbsXmNbMVSd9NIZOTUx7z
+yfN8wfwBTgOeZ0goQAkBjgGUxOOcBBiORxwBcdwAncjxKJINqNuAqhh2tyJHng1l
+OzRtPrPoUgyCoAmO40iCpXRDwJmr19CiTJO8IIpQIBhKRhAyIiIQYliIaJEnCYbQ
+Q9IiRUo4AhRgCCByAidCXhIogqYFgREgKUgslBhW4mUSUaSIaFnCGRohQSAAJBkO
+yJCRGSgKuASRLCAJQYLU2yUCPYET5auabg4nKZ4vNdaOQkVEhm+jawvDWVSbXmJ3
+aC5N1Gz6fq7LZU8wIrtK7AZXhGC2rtBiSGRDRZX0F/v/kxI6urAdJEPEY6jYrjhQ
+tmIQDMfyuD6Me1ChrknSNAVlUhCBgIsyYPR0iOdYSCNWJAQCh6xAkjRBQI6lKKj3
+kUAUJSGJo6FE8Dz+X0hG9wlydEmnkqMCV4EDYaWVpuWLfHxNPk/4m4w/6xO45OnH
+H7lvJPjhuulPImadG1NeyEp9+4epNUuqptPbK3ly9J+kc5c/LNkXFde2eq6yMdG+
+mJ5sNtfuDPuyeHr0qw96HkxU51d3vMPGzJ2YxDpMseExu/O6EhH6Y+2V1/iPYEL3
+wKe514UVc2eOoVU/ZuZtDm7qf+si223eu6284Pbkc9MDrda7h6YiKu5gK+DhkSON
+oOTdhsnM03HtvVGX9q/K7QMu97VM32mvEtpfdqL+wv7TlnXC0KYSM/NdGrz+THEH
+F7y76s9eR8x58/Ny1bX+b9zR9PmEbk9TwJOL/A91bojNclZWb2oLjbUl+c9mBl9Z
+1hz37QT30Gr3aZpeGie/GVg+evD9oFcrdkYr43FNXe6kQAy1quMFV73Vn6991r3Z
+FbA8aORj/98P5p4aHgq2J40I6afWvxgbpfa/oeT7Ry92HwdjL9W9si/N21AgnlM8
+nU0z5h3pFzLrVlbId/dO1r/X9tnQUJl6+MDJ1z03vRxvLZta1hjQPDbwxY2fguUy
+0/H0PSFhd/pqki2hGXldF1s9f60/1navN/xyanN5TvnVn3HZu/RWld/RxIwDptnB
+kz3WgKzaGLmnYa7ff8ZydCbye6VjbNdgpOdWZ8JwTVjq7aKbEbOJlXm14Nd7w1bP
+b966v1vYtCItPei+y+xXGnLDtOOpQbhybvzSka9/ib3ffja8ccPLIZOrrQ/W/As=
+=tWot
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lanzani
+
+==================================================================
