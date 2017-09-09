@@ -11,8 +11,29 @@ time.
 
 <h1 class="content-subhead">Current position</h1>
 
-<button class="button-job pure-button">Data Whisperer</button> <button class="button-company pure-button">GoDataDriven</button> <button class="button-time pure-button">2013.10--Now</button> <button class="button-location pure-button">The Netherlands</button>
 
+<button class="button-job pure-button">Chief Science Officer</button> <button class="button-company pure-button">GoDataDriven</button> <button class="button-time pure-button">2016.07--Now</button> <button class="button-location pure-button">The Netherlands</button>
+
+As GoDataDriven Chief Science Officer, I have a number of responsibilities.
+Among them:
+
+- Help clients become data driven enterprises; this includes helping them
+  shaping their data architectures, hire and foster data scientists and data
+  engineers, and, last but not least, help them set them up experiments
+  platforms;
+- Help and lead our team of data scientists through the crucial steps of their
+  projects;
+- Ensure that the many trainings GoDataDriven prepares are consistent in their
+  high quality, methodology, and format, so that the students can enjoy practice
+  driven trainings that immediately help them apply the knowledge learned.
+
+As we're far from being a corporation ourselves, I still very much enjoy
+designing the shoes that you get when you join the company.
+
+<h1 class="content-subhead">Experience</h1>
+
+
+<button class="button-job pure-button">Data Whisperer</button> <button class="button-company pure-button">GoDataDriven</button> <button class="button-time pure-button">2013.10--2016.06</button> <button class="button-location pure-button">The Netherlands</button>
 
 At GoDataDriven I enjoy what probably is the coolest job title I'll ever have:
 **Data Whisperer**. As for my daily tasks, they involve advising clients on how
@@ -20,10 +41,8 @@ to extract valuable insights from (big) data analysis. Being a swell chap, once
 that is done, we perform these analysis and build data driven products with a
 stellar [team](http://www.godatadriven.com/team.html).
 
-I am also a certified Cloudera trainer for the Data Analyst, Developer and Admin Cloudera courses.
-
-
-<h1 class="content-subhead">Experience</h1>
+I am also a certified Cloudera trainer for the Data Analyst, Developer,
+Admin, and Spark Cloudera courses.
 
 
 <button class="button-job pure-button">IT Consultant</button> <button class="button-company pure-button">KPMG</button> <button class="button-time pure-button">2012.10--2013.09</button> <button class="button-location pure-button">The Netherlands</button>
@@ -70,7 +89,7 @@ Dutch, and less so in Spanish and French. Annoyingly good in Italian.
 
 <button class="button-company pure-button">Programming languages</button> python (especially Numpy and pandas), C++, C, Haskell, Javascript, Erlang;
 
-<button class="button-company pure-button">Markup languages</button> LaTeX, html + CCS, XML;
+<button class="button-company pure-button">Markup languages</button> LaTeX, html + CSS, XML;
 
 <button class="button-company pure-button">Other</button> Hive, Pig, Impala, Hadoop (streaming and non streaming API), PostgreSQL, MySQL, Spark.
 
