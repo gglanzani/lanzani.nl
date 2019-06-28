@@ -1,0 +1,15 @@
+baseurl = "http://lanzani.nl"
+disablePathToLower = true
+languageCode = "en-us"
+title = "Technical inconsistencies"
+theme = 'hugola'
+
+[params]
+Blog = "http://blog.lanzani.nl"
+CV = "cv/"
+Domain = "http://www.lanzani.nl"
+Name = "lanzani.nl"
+Publications = "publications/"
+
+[outputs]
+home = [ "HTML" ]
