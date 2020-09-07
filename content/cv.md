@@ -96,7 +96,7 @@ Dutch, and less so in Spanish and French. Annoyingly good in Italian.
 
 <h1 class="content-subhead">Interests</h1>
 
-I have a passion for photography and my favorite subjects are my wife and my four kids.
+I have a passion for photography and my favorite subjects are my wife and my seven kids.
 
 Furthermore I like reading, writing, playing the guitar and music in general.
 
