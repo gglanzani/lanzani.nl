@@ -12,9 +12,15 @@ time.
 <h1 class="content-subhead">Current position</h1>
 
 
+<button class="button-job pure-button">Managing Director</button> <button class="button-company pure-button">Xebia Data</button> <button class="button-time pure-button">2022.01--Now</button> <button class="button-location pure-button">Benelux</button>
+
+At Xebia Data, I am responsible for Solutions, Academy, Marketing, Recruitment and our internation expansion.
+
+<h1 class="content-subhead">Experience</h1>
+
 <button class="button-job pure-button">Chief Science Officer</button> <button class="button-company pure-button">GoDataDriven</button> <button class="button-time pure-button">2016.07--Now</button> <button class="button-location pure-button">The Netherlands</button>
 
-As GoDataDriven Chief Science Officer, I have a number of responsibilities.
+As GoDataDriven Chief Science Officer, I had a number of responsibilities.
 Among them:
 
 - Help clients become data driven enterprises; this includes helping them
@@ -29,9 +35,6 @@ Among them:
 
 As we're far from being a corporation ourselves, I still very much enjoy
 designing the shoes that you get when you join the company.
-
-<h1 class="content-subhead">Experience</h1>
-
 
 <button class="button-job pure-button">Data Whisperer</button> <button class="button-company pure-button">GoDataDriven</button> <button class="button-time pure-button">2013.10--2016.06</button> <button class="button-location pure-button">The Netherlands</button>
 
