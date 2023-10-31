@@ -13,3 +13,8 @@ Publications = "publications/"
 
 [outputs]
 home = [ "HTML" ]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
