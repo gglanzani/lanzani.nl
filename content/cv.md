@@ -14,7 +14,7 @@ time.
 
 <button class="button-job pure-button">Managing Director</button> <button class="button-company pure-button">Xebia Data</button> <button class="button-time pure-button">2022.01--Now</button> <button class="button-location pure-button">Benelux</button>
 
-At Xebia Data, I am responsible for Solutions, Academy, Marketing, Recruitment and our internation expansion.
+At Xebia Data, I am responsible for Solutions, Academy, Marketing, Recruitment and our international expansion.
 
 <h1 class="content-subhead">Experience</h1>
 
