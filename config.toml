@@ -10,6 +10,7 @@ CV = "cv/"
 Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
 Publications = "publications/"
+Public = "public/"
 
 [outputs]
 home = [ "HTML" ]
