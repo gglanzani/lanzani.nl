@@ -12,27 +12,27 @@ In this page I report some of the public appearances through the years.
 - [AI Unleashed](https://archipelacademy.com/en/inspiration/podcasts/ai-unleashed-3-indispensable-tips-for-harnessing-ai-in-your-lms-system/)
 - Lifelong Learning
 
-{{< youtube AMvGx6hKwXE >}}
+{{< yt AMvGx6hKwXE >}}
 
 - Analytics Translation and Data Science - Making Data Work For You
 
-{{< youtube oPyhs3HrZHM >}}
+{{< yt oPyhs3HrZHM >}}
 
 - What is Analytics Translation and how to start your AT career journey
 
-{{< youtube 9ufX2xsdGOw >}}
+{{< yt 9ufX2xsdGOw >}}
 
 - Studio Data, with Romain Doutriaux & Giovanni Lanzani
 
-{{< youtube nib0458Zp8Q >}}
+{{< yt nib0458Zp8Q >}}
 
 - Data Science Challenges for Non-Tech Companies -- And How to Solve Them (Episode 64) #DataTalk
 
-{{< youtube 43g5erKGcEg >}}
+{{< yt 43g5erKGcEg >}}
 
 - Dutch Data Science Week talk show (from 22:00)
 
-{{< youtube qqmb8O-791w >}}
+{{< yt qqmb8O-791w >}}
 
 
 ## Conferences
@@ -43,19 +43,19 @@ PyData is the conference closest to my heart, having started the Amsterdam meetu
 
 - Applied Data Science
 
-{{< youtube 7glVO4juXl0 >}}
+{{< yt 7glVO4juXl0 >}}
 
 - Asyncio, websockets, and BTC sitting in a tree
 
-{{< youtube AcZJUQ3y2ek >}}
+{{< yt AcZJUQ3y2ek >}}
 
 - Python and pandas as back-end to real-time data-driven applications
 
-{{< youtube I8xBoXgJ5RM >}}
+{{< yt I8xBoXgJ5RM >}}
 
 - Pandas: from bdate_range to wide_to_long
 
-{{< youtube 1NM7iPA-SMY >}}
+{{< yt 1NM7iPA-SMY >}}
 
 ### Applied Machine Learning Days Lausanne
 
@@ -63,11 +63,11 @@ I had great fun at the [AMLD] conference in Switzerland in 2022.
 
 - The Role of Learning & Development in the AI Maturity Journey
 
-{{< youtube 0vARmeDIb9E >}}
+{{< yt 0vARmeDIb9E >}}
 
 - Panel discussion on The Data & AI Maturity Journey
 
-{{< youtube C1os8PeZpbU >}}
+{{< yt C1os8PeZpbU >}}
 
 ### Banking Renaissance
 
@@ -88,7 +88,7 @@ Back in 2014, I spoke in Dublin and Barcelona about how I used pandas instead of
 
 I gave a couple of masterclasses. One of them, given at the University of Amsterdam, has been posted online.
 
-{{< youtube CUnTyURWD3w >}}
+{{< yt CUnTyURWD3w >}}
 
 [AMLD]: https://appliedmldays.org/events/amld-epfl-2022
 [Techsummit]: https://xebia.ai/europe-tech-summit-gl
