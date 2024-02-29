@@ -6,33 +6,6 @@ url: /public/
 
 In this page I report some of the public appearances through the years.
 
-## Podcasts
-
-- [The AI Revolution](https://www.linkedin.com/events/7061712639466381312/comments/)
-- [AI Unleashed](https://archipelacademy.com/en/inspiration/podcasts/ai-unleashed-3-indispensable-tips-for-harnessing-ai-in-your-lms-system/)
-- Lifelong Learning
-
-{{< yt AMvGx6hKwXE >}}
-
-- Analytics Translation and Data Science - Making Data Work For You
-
-{{< yt oPyhs3HrZHM >}}
-
-- What is Analytics Translation and how to start your AT career journey
-
-{{< yt 9ufX2xsdGOw >}}
-
-- Studio Data, with Romain Doutriaux & Giovanni Lanzani
-
-{{< yt nib0458Zp8Q >}}
-
-- Data Science Challenges for Non-Tech Companies -- And How to Solve Them (Episode 64) #DataTalk
-
-{{< yt 43g5erKGcEg >}}
-
-- Dutch Data Science Week talk show (from 22:00)
-
-{{< yt qqmb8O-791w >}}
 
 
 ## Conferences
@@ -83,6 +56,33 @@ I was invited to participate in a panel at the [Techsummit] Europe 2024. Once an
 
 Back in 2014, I spoke in Dublin and Barcelona about how I used pandas instead of a database for a fairly large web app. There are no recordings available, but [proof] of my PowerPoint skills is still around.
 
+## Podcasts
+
+- [The AI Revolution](https://www.linkedin.com/events/7061712639466381312/comments/)
+- [AI Unleashed](https://archipelacademy.com/en/inspiration/podcasts/ai-unleashed-3-indispensable-tips-for-harnessing-ai-in-your-lms-system/)
+- Lifelong Learning
+
+{{< yt AMvGx6hKwXE >}}
+
+- Analytics Translation and Data Science - Making Data Work For You
+
+{{< yt oPyhs3HrZHM >}}
+
+- What is Analytics Translation and how to start your AT career journey
+
+{{< yt 9ufX2xsdGOw >}}
+
+- Studio Data, with Romain Doutriaux & Giovanni Lanzani
+
+{{< yt nib0458Zp8Q >}}
+
+- Data Science Challenges for Non-Tech Companies -- And How to Solve Them (Episode 64) #DataTalk
+
+{{< yt 43g5erKGcEg >}}
+
+- Dutch Data Science Week talk show (from 22:00)
+
+{{< yt qqmb8O-791w >}}
 
 ## Masterclasses
 
