@@ -8,9 +8,9 @@ In this page I report some of the public appearances through the years.
 
 
 
-## Conferences
+# Conferences
 
-### PyData
+## PyData
 
 PyData is the conference closest to my heart, having started the Amsterdam meetup and organized and chaired the first PyData Amsterdam conference. I've talked at various instances of the conference numerous times, and often at meetups.
 
@@ -30,7 +30,7 @@ PyData is the conference closest to my heart, having started the Amsterdam meetu
 
 {{< yt 1NM7iPA-SMY >}}
 
-### Applied Machine Learning Days Lausanne
+## Applied Machine Learning Days Lausanne
 
 I had great fun at the [AMLD] conference in Switzerland in 2022.
 
@@ -42,13 +42,13 @@ I had great fun at the [AMLD] conference in Switzerland in 2022.
 
 {{< yt C1os8PeZpbU >}}
 
-### Banking Renaissance
+## Banking Renaissance
 
 I was lucky enough to be present in Amsterdam to talk about how to set up a learning culture to foster data-driven, digital leaders.
 
 {{< vimeo 805668958 >}}
 
-### Techsummit Europe
+## Techsummit Europe
 
 I was invited to participate in a panel at the [Techsummit] Europe 2024. Once and if the recording comes online, I'll post it here.
 
@@ -56,7 +56,7 @@ I was invited to participate in a panel at the [Techsummit] Europe 2024. Once an
 
 Back in 2014, I spoke in Dublin and Barcelona about how I used pandas instead of a database for a fairly large web app. There are no recordings available, but [proof] of my PowerPoint skills is still around.
 
-## Podcasts
+# Podcasts
 
 - [The AI Revolution](https://www.linkedin.com/events/7061712639466381312/comments/)
 - [AI Unleashed](https://archipelacademy.com/en/inspiration/podcasts/ai-unleashed-3-indispensable-tips-for-harnessing-ai-in-your-lms-system/)
@@ -84,7 +84,7 @@ Back in 2014, I spoke in Dublin and Barcelona about how I used pandas instead of
 
 {{< yt qqmb8O-791w >}}
 
-## Masterclasses
+# Masterclasses
 
 I gave a couple of masterclasses. One of them, given at the University of Amsterdam, has been posted online.
 
