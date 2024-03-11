@@ -4,9 +4,8 @@ title: CV
 url: /cv/
 ---
 
-<img class="pure-img" src="/cv.jpg">
-The guy on the photo is me, in Lisboa, Portugal. I am smiling, like most of the
-time.
+
+{{< figure src="/giovanni-square.jpg" caption="A headshot taken at the office" width="320" >}}
 
 
 <h1 class="content-subhead">Current position</h1>
