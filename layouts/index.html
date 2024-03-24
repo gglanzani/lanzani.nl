@@ -1,23 +1,15 @@
+{{ partial "head.html" . }}
+
 {{ partial "header.html" . }}
 
-{{ partial "sidebar.html" . }}
+<main class="container">
+    <h1>Technical inconsistencies</h1>
+    <p>
+        Hi, I'm Giovanni, managing director at <a href="http://www.xebia.com">Xebia Data</a>.
+        In this page you can find my <a href="http://blog.lanzani.nl">blog</a>, my
+        <a href="/cv">Curriculum Vit&aelig;</a>, and my <a href="/public">public appearances</a> through the years.
+    </p>
 
-            <div id="main">
-                <div class="content">
-                    <div>
-                    <!-- A wrapper for all the blog posts -->
-                        <div class="posts">
-                        <h1 class="content-subhead">Technical inconsistencies</h1>
-                        Hi, I'm Giovanni, managing director at <a href="http://www.xebia.com">Xebia Data</a>.
-                        In this page you can find my <a href="http://blog.lanzani.nl">blog</a>, my
-                        <a href="/cv">Curriculum Vit&aelig;</a>, and my <a href="/public">public appearances</a> through the years.
-                        </div>
-                    </div>
+</main>
 
-                </div>
-            {{ partial "footer.html" . }}
-
-            </div>
-        </div> <!-- closes layout class in sidebar.html -->
-    </body>
-</html>
+{{ partial "footer.html" . }}
