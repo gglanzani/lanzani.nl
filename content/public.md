@@ -58,6 +58,10 @@ Back in 2014, I spoke in Dublin and Barcelona about how I used pandas instead of
 
 # Podcasts
 
+- [The Impact of AI on Hiring](https://www.youtube.com/watch?v=iNLc3rgFwOw), hosted by Tim Freestone of [Alooba](https://www.alooba.com/).
+
+{{< yt iNLc3rgFwOw >}}
+
 - [The AI Revolution](https://www.linkedin.com/events/7061712639466381312/comments/)
 - [AI Unleashed](https://archipelacademy.com/en/inspiration/podcasts/ai-unleashed-3-indispensable-tips-for-harnessing-ai-in-your-lms-system/)
 - Lifelong Learning
