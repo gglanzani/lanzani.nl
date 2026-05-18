@@ -2,6 +2,7 @@
 date: 2024-02-15T00:00:00Z
 title: Public Appearances
 url: /public/
+toc: true
 ---
 
 In this page I report some of the public appearances through the years.

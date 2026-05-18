@@ -1,12 +1,18 @@
 baseurl = "http://lanzani.nl"
 disablePathToLower = true
-languageCode = "en-us"
+locale = "en-us"
 title = "Technical inconsistencies"
 theme = 'hugola'
 
 [params]
 Domain = "http://www.lanzani.nl"
 Name = "lanzani.nl"
+role   = "MD, Xebia Data"
+bio    = "Notes on tech, productivity, and, sometimes, politics."
+lede   = "👋🏻 I'm Giovanni, MD at Xebia Data"
+listHeading = "All posts"
+listLede    = "Self-written, for good or for worse"
+rss = "https://blog.lanzani.nl/atom.xml"
 
 [params.sidebar]
 search = "http://duckduckgo.com/?q=site%3Alanzani.nl"
@@ -25,7 +31,30 @@ LinkedIn = "http://nl.linkedin.com/pub/giovanni-lanzani/24/618/195"
 [outputs]
 home = [ "HTML" ]
 
+
+[menu]
+  [[menu.main]]
+    name = "writing"
+    url  = "https://blog.lanzani.nl"
+    weight = 1
+  [[menu.main]]
+    name = "cv"
+    url  = "/cv/"
+    weight = 2
+  [[menu.main]]
+    name = "talks"
+    url  = "/public/"
+    weight = 3
+  [[menu.main]]
+    name = "papers"
+    url  = "/publications/"
+    weight = 4
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel   = 1
