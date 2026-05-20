@@ -49,6 +49,10 @@ home = [ "HTML" ]
     name = "papers"
     url  = "/publications/"
     weight = 4
+  [[menu.main]]
+    name = "projects"
+    url  = "/projects/"
+    weight = 5
 
 
 [markup]
